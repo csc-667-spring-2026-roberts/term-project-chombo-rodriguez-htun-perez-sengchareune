@@ -4,12 +4,12 @@ CSC 667 Term Project — Spring 2026
 
 ## Team Members
 
-| Name | GitHub | Email |
-|------|--------|-------|
-| Member 1 | @username | email@sfsu.edu |
-| Member 2 | @username | email@sfsu.edu |
-| Member 3 | @username | email@sfsu.edu |
-| Member 4 | @username | email@sfsu.edu |
+| Name         | GitHub        | Email             |
+| ------------ | ------------- | ----------------- |
+| Member 1     | @username     | email@sfsu.edu    |
+| Member 2     | @username     | email@sfsu.edu    |
+| Member 3     | @username     | email@sfsu.edu    |
+| Damian Perez | @banksybanksy | dperez52@sfsu.edu |
 
 ## Setup
 

@@ -8,7 +8,7 @@ CSC 667 Term Project — Spring 2026
 | ------------ | ------------- | ----------------- |
 | Khaterina Sengchareune    | @skhaterina    | ksengchareune@sfsu.edu    |
 | Samantha Chombo-Rodriguez   | @smunthe   | schomborodriguez@sfsu.edu    |
-| Member 3     | @username     | email@sfsu.edu    |
+| Thinzar Htun | @ThinzarHtun  | thtun@sfsu.edu    |
 | Damian Perez | @banksybanksy | dperez52@sfsu.edu |
 
 ## Setup
